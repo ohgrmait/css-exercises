@@ -1,0 +1,14 @@
+.blackened {
+  background-color: hsl(0, 100%, 0%);
+  color: #ffffff;
+}
+
+.yellowed {
+  background-color: rgb(255, 255, 0);
+}
+
+.blackened,
+.yellowed {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
